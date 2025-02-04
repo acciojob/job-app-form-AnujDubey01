@@ -1,2 +1,27 @@
 
 /* Your CSS Code here. */
+
+.body {
+	padding-left:30px
+	
+}
+#name {
+	margin-bottom: 5px;
+}
+
+#email {
+	margin-bottom: 5px;
+}
+
+#age {
+	margin-bottom: 5px;
+}
+
+#password {
+	margin-bottom: 5px;
+}
+
+#laptop {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
